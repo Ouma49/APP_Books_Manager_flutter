@@ -94,6 +94,5 @@ This application uses the Google Books API for searching books. The base URL for
 ## Report Details
 
 -   **Name:** DAOUDI OUMAYMA
--   **Class/Course:** GLSID 2
--   **Student ID:** [YOUR STUDENT ID]
--   **Date:** [DATE]
+-   **Class:** GLSID 2
+
